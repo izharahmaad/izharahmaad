@@ -1,124 +1,101 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/izharahmaad/izharahmaad/main/assets/banner.png" alt="Banner Image" width="100%" />
-</p>
+<!-- Hero Section -->
+<div align="center">
+  <!-- Title Badges -->
+  <img src="https://img.shields.io/badge/👋%20Hi%2C%20I'm%20Izhar%20Ahmad-brightgreen?style=for-the-badge&logo=github" alt="Hi, I'm Izhar Ahmad" />
+  <img src="https://img.shields.io/badge/Full-Stack%20Developer-blueviolet?style=for-the-badge&logo=react" alt="Full-Stack Developer" />
+</div>
 
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Izhar Ahmad</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-</p>
-
-<p align="center">
-  <a href="#about">About</a>&nbsp;|&nbsp;
-  <a href="#skills">Skills</a>&nbsp;|&nbsp;
-  <a href="#projects">Projects</a>&nbsp;|&nbsp;
-  <a href="#contact">Contact</a>
-</p>
+<!-- Profile Views & Visitor Badge -->
+<div align="center" style="margin-top: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=izharahmaad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=izharahmaad.izharahmaad&color=blue" alt="Visitor Badge" style="margin-left: 8px;" />
+</div>
 
 ---
 
-## 📝 About
+## 👩‍💻 About Me
 
 <p align="justify">
-Hello! I'm <strong>Izhar Ahmad</strong>, a passionate <em>Full-Stack Developer</em> from Khyber Pakhtunkhwa, Pakistan. I specialize in crafting high-performance mobile & web applications with clean, maintainable code.</p>
+Hello! I'm <strong>Izhar Ahmad</strong> from Khyber Pakhtunkhwa, Pakistan—a passionate <em>Full-Stack Developer</em>. I build high-performance web & mobile apps with clean, maintainable code and focus on outstanding user experiences.
+</p>
 
-<ul>
-  <li>🌟 <strong>Current Project:</strong> <a href="https://github.com/izharahmaad/nutrisense">NutriSense App</a> — A health & nutrition tracker built with React Native & Firebase.</li>
-  <li>📚 <strong>Learning:</strong> TypeScript, Advanced Firebase Security Rules, Expo Modules, Python AI/ML.</li>
-  <li>🤝 <strong>Collaborating on:</strong> React Native, Firebase, Node.js projects.</li>
-  <li>🛠 <strong>Ask me about:</strong> Google OAuth, real-time Firestore syncing.</li>
-  <li>⚡ <strong>Fun Fact:</strong> I make debugging jokes—my bugs always get highlighted in VS Code! 😂</li>
-</ul>
+- 🔭 **Current:** Building [NutriSense App](https://github.com/izharahmaad/nutrisense), a health & nutrition tracker powered by Firebase & React Native.  
+- 🌱 **Learning:** TypeScript, Firebase Security Rules, Expo Modules, Python AI/ML, Data Science.  
+- 🤝 **Collaborating:** Open to React Native, Firebase & Node.js projects.  
+- 💬 **Open to discuss:** Nutrition data visualization, mobile UX design, and JavaScript performance optimization.  
+- ⚡ **Fun Fact:** My debugging jokes always get highlighted in VS Code! 😂
 
 ---
 
-## 🚀 Skills
-
-<details>
-<summary><strong>Frontend</strong></summary>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30" />
-</p>
-</details>
-
-<details>
-<summary><strong>Backend & Databases</strong></summary>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" />
-</p>
-</details>
-
-<details>
-<summary><strong>Tools & Others</strong></summary>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub Actions" width="30" height="30" />
-</p>
-</details>
-
----
-
-## 💼 Projects Showcase
+## 💼 Featured Project
 
 <p align="center">
-  <a href="https://github.com/izharahmaad/nutrisense" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/izharahmaad/nutrisense/main/assets/screenshot.png" alt="NutriSense App" width="300" height="200" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/izharahmaad/project-xyz" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/izharahmaad/project-xyz/main/assets/screenshot.png" alt="Project XYZ" width="300" height="200" />
+  <a href="https://github.com/izharahmaad/nutrisense" target="_blank">
+    <img src="https://img.shields.io/badge/NutriSense-App-blue?style=for-the-badge&logo=react" alt="NutriSense App" />
   </a>
 </p>
 
-<p align="center">
-  <strong>NutriSense App</strong><br>
-  Health & nutrition tracker with real-time analytics using React Native & Firebase.<br>
-  <a href="https://github.com/izharahmaad/nutrisense">View on GitHub</a>
-</p>
+<div align="center">
+  <strong>NutriSense App</strong>
+  <ul align="left" style="max-width: 600px;">
+    <li>📊 Track calories, macros, and micronutrients in real time.</li>
+    <li>📈 Interactive charts and analytics to visualize progress.</li>
+    <li>🔔 Custom reminders for meals, water intake, and exercise.</li>
+    <li>👥 Community features: share goals, recipes, and tips.</li>
+    <li>🔒 Secure authentication with Google & email/password.</li>
+  </ul>
+  Built with <strong>React Native</strong>, <strong>Firebase</strong>, and <strong>TypeScript</strong>.
+</div>
 
-<p align="center">
-  <strong>Project XYZ</strong><br>
-  Brief summary of Project XYZ and its tech stack.<br>
-  <a href="https://github.com/izharahmaad/project-xyz">View on GitHub</a>
-</p>
-
-> 🚀 More projects coming soon!
+> 🚀 More exciting projects coming soon!
 
 ---
 
-## 📈 GitHub Stats
+## 🛠 Languages & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izharahmaad&show_icons=true&theme=cobalt&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izharahmaad&layout=compact&theme=cobalt" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <th align="center">Frontend</th>
+    <th align="center">Backend & Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" height="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="60" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" height="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height="60" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=izharahmaad&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izharahmaad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
 ## 📫 Contact
 
-<p align="center">
-  <a href="mailto:izharahmadcreative@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Email" width="30" height="30" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/izharahmaad" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" /></a>&nbsp;
-  <a href="https://instagram.com/izhar.ahmaad" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30" /></a>&nbsp;
-  <a href="https://twitter.com/izharahmaad" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30" /></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/izharahmaad" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/izharahmaad" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" alt="Twitter" /></a>
+  <a href="mailto:izharahmadcreative@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" alt="Email" /></a>
+</div>
 
 ---
 
-<p align="center"><em>Crafted with ❤️ by <a href="https://github.com/izharahmaad">Izhar Ahmad</a></em></p>
+<p align="center"><em>Designed by <a href="https://github.com/izharahmaad">Izhar Ahmad</a></em></p>
